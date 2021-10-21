@@ -35,7 +35,7 @@ sudo apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/AAAAA
 
 ![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/blob/master/GENERADOR-VPS-MX/Imagenes/Updatekey.png)
 
-apt-get update -y; apt-get upgrade -y; wget  https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/GENERADOR-VPS-MX/attgerador.sh; chmod 777 attgerador.sh* && ./attgerador.sh*
+apt-get update -y; apt-get upgrade -y; wget  https://raw.githubusercontent.com/DanssBot/VPSMX-OFICIAL/master/GENERADOR-VPS-MX/attgerador.sh; chmod 777 attgerador.sh* && ./attgerador.sh*
 
 -------------------------------------------------------------------------------
 
