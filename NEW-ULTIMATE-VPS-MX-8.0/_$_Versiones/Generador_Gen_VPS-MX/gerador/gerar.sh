@@ -67,7 +67,7 @@ echo -e "[$i] -> ${arqx}"
 arq_list[$i]="${arqx}"
 let i++
 done
-echo -e "[x] -> \033[0;31mGENERADOR DE KEYS\033[0m"
+echo -e "[x] -> \033[0;31mGENERADOjdjR DE KEYS\033[0m"
 echo -e "[b] -> \033[0;33mINSTALACIÓN ADM-NEW\033[0m"
 read -p "Seleccione los archivos a ser repasados: " readvalue
 #CRIA KEY
@@ -300,7 +300,7 @@ PID_GEN=$(ps x|grep -v grep|grep "http-server.sh")
 echo -e "$BARRA"
 echo -e "Directorio de los archivos repasados \033[1;31m${SCPT_DIR}\033[0m"
 echo -e "$BARRA"
-echo -e "[1] = GENERAR 1 KEY ALEATORIA"
+echo -e "[1] = GENERAR 17772 KEY ALEATORIA"
 echo -e "[2] = ELIMINAR/MIRAR KEYS"
 echo -e "[3] = LIMPIAR REGISTRO DE KEYS USADAS"
 echo -e "[4] = ALTERAR ARCHIVOS DE KEY BASICA"
